@@ -177,7 +177,7 @@ public class StepDefinition {
 		WebElement now = driver.findElement(By.xpath("//input[@id='book_now']"));
 
 		now.click();
-		
+		Thread.sleep(3000);
 
 //		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 

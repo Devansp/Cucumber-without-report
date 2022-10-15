@@ -1,0 +1,4 @@
+/ pretty gives additional information in console
+//monochrome(true)-- removes special characters  
+//dry run(true) means---it will not run for matching snipptes also(5(matching)/10)
+//strict(true)--it will through exception wen occurs
